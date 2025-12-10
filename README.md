@@ -1,6 +1,6 @@
 > Bienvenue sur le code source de mon site de projet SAE ! 
 
-[![GitHub Pages](https://azerazer02.github.io/site-sa--14-v2/)
+[![GitHub Pages](https://img.shields.io/badge/Status-En%20Ligne-green)](https://azerazer02.github.io/site-sa--14-v2/)
 
 ## 🔗 Démo en ligne
 
